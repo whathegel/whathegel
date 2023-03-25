@@ -1,0 +1,62 @@
+@font-face{
+	font-family:fancyfont;
+	src: url(fancytext.otf);
+}
+
+body{
+	background-color: #f6f7ef;
+	margin:0;
+	line-height:1.5;
+}
+
+h2 {
+	color: darkblue;
+	text-align: center;
+	font-size: 50px;
+	font-style: oblique;
+	font-family: "fancyfont";
+	font-weight: bolder;
+}
+
+.eastshore {
+	border-width: 5px;
+	border-style: outset;
+	border-color:black;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.whytho{
+	color: orange;
+	font-size: 25px;
+	font-style: italic;
+	font-family: "verdana";
+	font-weight:bold;
+	text-align: center;
+}
+
+.whyoption{
+	display:table;
+	color: darkred;
+	text-align: center;
+	margin: auto;
+	list-style-position: inside;
+	font-style: italic;
+	font-family: "verdana";
+	font-weight:bold;
+	font-size: 25px;
+}
+
+.lttm{
+	font-family: verdana;
+	text-align: center;
+	font-size:20px;
+	font-weight: bolder;
+}
+
+.bewvideo{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
